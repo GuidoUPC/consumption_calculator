@@ -1,0 +1,1 @@
+Microcontroller(name="ESP32-S3", operating_voltage=3.3, active_consumption=36.2, light_sleep_consumption=3.29, deep_sleep_consumption=0.0155)

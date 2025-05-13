@@ -1,0 +1,1 @@
+RadioInterface(name="nb-iot SIM7020E", operating_voltage=3.3, transmit_consumption=138.0, receive_consumption=66.2, inactive_consumption=0.0078, datarate=250.0, data_refresh_rate=0.0003)
